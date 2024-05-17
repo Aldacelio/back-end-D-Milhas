@@ -1,0 +1,41 @@
+# Arquivos de compilação gerados
+bin/
+obj/
+
+# Arquivos de configuração
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Logs e arquivos de saída
+*.log
+*.log.*
+logs/
+*.db
+
+# Arquivos de usuário
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dependências e pacotes NuGet
+packages/
+*.nupkg
+*.dll
+*.exe
+
+# Arquivos gerados pela IDE
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos específicos do Visual Studio
+*.suo
+*.user
+*.vs/
+*.csproj.user
+*.xproj.user
